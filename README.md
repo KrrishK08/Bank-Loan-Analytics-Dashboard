@@ -62,9 +62,9 @@ Focuses on loan quality and repayment performance through:
 - 
 ## Dashboard Preview
 ### Summary Dashboard
-![Summary Dashboard](Summary__Dashboard.png)
+![Summary Dashboard](./Summary.png)
 ### Overview Dashboard
-![Overview Dashboard](Overview_Dashboard.png)
+![Overview Dashboard](./Overview.png)
 
 ## Key Insights
 - Good loans account for 86.18% of total loan applications.
