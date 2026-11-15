@@ -62,7 +62,7 @@ Focuses on loan quality and repayment performance through:
 - 
 ## Dashboard Preview
 ### Summary Dashboard
-![Summary Dashboard](Summary_Dashboard.png)
+![Summary Dashboard](Summary__Dashboard.png)
 ### Overview Dashboard
 ![Overview Dashboard](Overview_Dashboard.png)
 
